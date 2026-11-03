@@ -1,0 +1,19 @@
+{
+  "id": "./",
+  "name": "استودیو طراحی نمای سنگ خورشید نو",
+  "short_name": "طراحی نمای سنگ",
+  "description": "طراحی سه‌بعدی نمای ساختمان با سنگ طبیعی، مقایسه سنگ‌ها و برآورد هزینه",
+  "lang": "fa",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f3f0ea",
+  "theme_color": "#23262b",
+  "icons": [
+    {"src":"icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any"},
+    {"src":"icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any"},
+    {"src":"icons/icon-512-maskable.png","sizes":"512x512","type":"image/png","purpose":"maskable"}
+  ]
+}
